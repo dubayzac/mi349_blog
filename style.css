@@ -25,7 +25,7 @@ h2 {
 
 p {
     line-height: 1.5em;
-    width: 500px;
+    width: 500;
     
 }
 
@@ -49,16 +49,16 @@ p {
 
 .img-container {
     float: right;
-    height: 400px;
-    width: 300px;
-    margin-left: 15px;
-    margin-bottom: 20px;
+    height: 400;
+    width: 300;
+    margin-left: 15;
+    margin-bottom: 20;
 }
 
 .bio {
-    line-height: 1.5em;
-    width: 800px;
-    height: 410px;
+    line-height: 1em;
+    width: 860;
+    height: 350;
 }
 
 
