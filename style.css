@@ -11,6 +11,10 @@ body {
     background-color: rgb(198, 195, 195); 
 }
 
+section {
+    display: flex
+}
+
 h1 {
     font-size: 3em;
 }
@@ -19,16 +23,10 @@ h2 {
     font-size: 1.5em;
 }
 
-h3 {
-    font-size: 1.5em;
-}
-
-h4 {
-    font-size: 1em;
-}
-
 p {
     line-height: 1.5em;
+    width: 500px;
+    
 }
 
 #blog {
@@ -37,4 +35,44 @@ p {
 
 .blog-post {
     border-bottom: 5px dotted #ccc;
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+}
+
+.sticky {
+    background: #ccc;
+    position: sticky;
+    top: 0;
+    
+}
+
+.img-container {
+    float: right;
+    height: 400px;
+    width: 300px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.bio {
+    line-height: 1.5em;
+    width: 800px;
+    height: 410px;
+}
+
+
+
+figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto;
+}
+
+figcaption{
+    color #eee;
+    font-style: italic;
+    padding: 2px;
+    text-align: right;
+    
 }
