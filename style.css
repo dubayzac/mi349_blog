@@ -25,7 +25,7 @@ h2 {
 
 p {
     line-height: 1.5em;
-    width: 500;
+    width: 500px;
     
 }
 
@@ -49,15 +49,15 @@ p {
 
 .img-container {
     float: right;
-    height: 400;
-    width: 300;
-    margin-left: 15;
-    margin-bottom: 20;
+    height: 400px;
+    width: 300px;
+    margin-left: 15px;
+    margin-bottom: 20px;
 }
 
 .bio {
     line-height: 1em;
-    width: 860;
+    width: 860px;
     height: 400px;
 }
 
@@ -85,7 +85,7 @@ figcaption{
         padding: 5px;
         color: #161617;
         border-top: 2.5px solid #0f2876;
-        background-color: rgb(167, 20, 20); 
+        background-color: rgb(198, 195, 195); 
         background-size: auto;
     }
     
@@ -103,7 +103,7 @@ figcaption{
     
     p {
         line-height: .75em;
-        width: 150;
+        width: 150px;
         
     }
     
@@ -127,16 +127,15 @@ figcaption{
     
     .img-container {
         float: right;
-        height: 133;
-        width: 100;
-        margin-left: 7.5;
-        margin-bottom: 10;
+        height: 133px;
+        width: 100px;
+        margin-left: 7.5px;
+        margin-bottom: 10px;
     }
     
     .bio {
-        font-size: .50m;
         line-height: .75em;
-        width: 300;
+        width: 200px;
     }
     
     
