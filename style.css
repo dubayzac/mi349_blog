@@ -133,6 +133,7 @@ figcaption{
     }
     
     .bio {
+        font-size: .50m;
         line-height: .75em;
         width: 300;
     }
